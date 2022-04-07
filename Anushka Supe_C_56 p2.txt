@@ -1,0 +1,46 @@
+// my first c program
+#include
+ <stdio.h>
+
+int main()
+ {
+
+    // Write C code here
+
+    printf("talk to a teacher\n");
+
+    printf("welcom\n");
+
+    return 0;
+
+    
+}
+
+#include <stdio.h>
+
+
+int main()
+ {
+
+    // Write C code here
+
+    int a=2;
+
+    double const b=4;
+
+    float c=1.5;
+
+    char d='A';
+
+    printf("the value of a is %d\n",a);
+
+    printf("the value of b is %f\n",b);
+
+    printf("the value of c is %.2f\n",c);
+
+    printf("the value of d is %c\n",d);
+
+    
+    return 0;
+
+}

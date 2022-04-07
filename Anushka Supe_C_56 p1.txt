@@ -1,0 +1,21 @@
+// my first c program
+#include
+ <stdio.h>
+
+int main()
+ {
+
+    // Write C code here
+
+    printf("talk to a teacher\n");
+
+    printf("welcom\n");
+
+    return 0;
+
+    
+}
+
+OUTPUT:
+talk to a teacher
+welcome
